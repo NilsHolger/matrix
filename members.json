@@ -1,0 +1,7 @@
+[
+{"no": "1","name":"Neo", "loyalty": 10,"joinDate":"17/2/13", "userType":"Main"},
+{"no": "2","name":"Trinity", "loyalty": 8,"joinDate":"13/4/12", "userType":"Main"},
+{"no": "3","name":"Morpheus", "loyalty": 9,"joinDate":"3/7/11", "userType":"Main"},
+{"no": "4","name":"Cypher", "loyalty": 2,"joinDate":"10/12/10", "userType":"Detail"},
+{"no": "5","name":"Smith", "loyalty": 10,"joinDate":"2/11/10", "userType":"Main"}
+]

@@ -1,0 +1,13 @@
+<div class="modal-header">
+   <button type="button" class="close" ng-click="cancel()" data-dismiss="modal" aria-hidden="true">&times;</button>
+   <h1>Create Member</h1>
+</div>
+<div class="modal-body"> 
+<label>Name</label><input type="text" ng-model="newMember.name"/>
+<label>User Type</label><input type="text" ng-model="newMember.userType"/>
+<label>Degree Loyalty</label><input type="number" ng-model="newMember.loyalty"/>
+<label>Join Date</label><input type="text" ng-model="newMember.joinDate"/>
+<br/>
+<button class="btn btn-primary" ng-click="saveNewMember()"> Save Member</button>
+
+</div>
